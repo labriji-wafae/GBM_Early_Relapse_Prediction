@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Fichiers de données
+*.pkl
+*.h5
+*.hdf5
+*.csv
+dataframe/
